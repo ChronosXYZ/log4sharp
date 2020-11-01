@@ -3,12 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>Log4Sharp</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>ChronosX88</Authors>
     <PackageTags>logger</PackageTags>
     <Description>
         Dead-simple colorful logger for C#/.NET Core.
     </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ChronosX88/log4sharp</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
   
   <ItemGroup>
