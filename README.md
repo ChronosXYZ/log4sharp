@@ -2,7 +2,7 @@
 
 Dead-simple colorful logger for C#/.NET Core.
 
-I have not found any simple loggers in the .NET Core ecosystem that are not framework-specific and have easy usage, so I decided to write this logger. Mostly inspired by various Golang loggers.
+I have not found any simple loggers in the .NET Core ecosystem that are not framework-specific and have easy usage, so I decided to write this one. Mostly inspired by various Golang loggers.
 
 ![](./assets/log.png)
 
